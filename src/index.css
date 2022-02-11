@@ -373,3 +373,14 @@ ol {
 .profile-photo{
   width: 25%;
 }
+
+.icon {
+
+  width: 5%;
+  
+}
+
+.icon-container{
+  display: flex;
+  justify-content: center;
+}

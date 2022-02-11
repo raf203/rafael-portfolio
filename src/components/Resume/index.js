@@ -1,4 +1,5 @@
 import React from "react";
+import resumeIcon from "../../assets/letter.png";
 
 function Resume() {
   return (
@@ -24,10 +25,14 @@ function Resume() {
       </ol>
       
       </div>
-      {/* <a href={require("../../assets/resume.pdf")} download>
-        <h4>Resume</h4>
-      </a> */}
-      
+     
+      <a href={require("../../assets/Rafael-resume.pdf")} download>
+          <div className = "icon-container">
+      <img src={resumeIcon} className="icon" alt="icon" />
+      </div>
+        <h4 className="project-title">Click here to download my resume</h4>
+        </a>
+     
     </section>
   );
 }
