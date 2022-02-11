@@ -7,18 +7,23 @@ function ProjectList(props) {
     <div>
       <ul>
         {projects.map((project) => (
-          <li key={project.title}>
-            <h3>{project.title}</h3>
+          <li key={project.title} className="card-project">
+            <h3 className="project-title">{project.title}</h3>
             <img
-              src={require(`../../assets/${project.image}`)}
+              src={require(`../../assets/${project.image}`)} a href= {project.deployed}
             ></img>
+            <div className="links">
             <a href={project.deployed} target="_blank">
               {" "}
-              deployed application
+              Application
             </a>
+           
             <a href={project.repo} target="_blank">
-              repo
+              Repository
             </a>
+            </div>
+            <br />
+            <br />
           </li>
         ))}
       </ul>
