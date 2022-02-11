@@ -27,7 +27,18 @@ function Portfolio() {
       repo: "https://github.com/raf203/run-repo",
       deployed: "https://github.com/raf203/run-repo",
     },
-    
+    {
+        title: "Password Generator",
+        image: "work6.jpg",
+        repo: "https://github.com/raf203/password-generator",
+        deployed: "https://raf203.github.io/password-generator/",
+      },
+      {
+        title: "Code Quiz",
+        image: "work7.jpg",
+        repo: "https://github.com/raf203/code-quiz",
+        deployed: "https://raf203.github.io/code-quiz/",
+      },
   ];
   return (
     <div>
