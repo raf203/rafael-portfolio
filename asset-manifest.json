@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rafael-portfolio/static/css/main.aade1981.css",
-    "main.js": "/rafael-portfolio/static/js/main.5a67ab9b.js",
+    "main.js": "/rafael-portfolio/static/js/main.00c197eb.js",
     "static/js/787.cc65465d.chunk.js": "/rafael-portfolio/static/js/787.cc65465d.chunk.js",
     "static/media/work4.jpg": "/rafael-portfolio/static/media/work4.69d141f5d747fdb907ef.jpg",
     "static/media/work3.jpg": "/rafael-portfolio/static/media/work3.1337d41768fd87d19b42.jpg",
@@ -9,15 +9,17 @@
     "static/media/work1.jpg": "/rafael-portfolio/static/media/work1.bb042011a2f3522949b2.jpg",
     "static/media/work5.jpg": "/rafael-portfolio/static/media/work5.bfb02f64b8d2b4c683f9.jpg",
     "static/media/rafael.jpg": "/rafael-portfolio/static/media/rafael.54d4ea8295b92285c94a.jpg",
+    "static/media/work6.jpg": "/rafael-portfolio/static/media/work6.87f1d155a97b16a90553.jpg",
+    "static/media/work7.jpg": "/rafael-portfolio/static/media/work7.bd3aeac7f757c11076b5.jpg",
     "static/media/Rafael-resume.pdf": "/rafael-portfolio/static/media/Rafael-resume.fe404bf5a4c02445aa71.pdf",
     "static/media/letter.png": "/rafael-portfolio/static/media/letter.b72b3a0c06a39a9ab734.png",
     "index.html": "/rafael-portfolio/index.html",
     "main.aade1981.css.map": "/rafael-portfolio/static/css/main.aade1981.css.map",
-    "main.5a67ab9b.js.map": "/rafael-portfolio/static/js/main.5a67ab9b.js.map",
+    "main.00c197eb.js.map": "/rafael-portfolio/static/js/main.00c197eb.js.map",
     "787.cc65465d.chunk.js.map": "/rafael-portfolio/static/js/787.cc65465d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aade1981.css",
-    "static/js/main.5a67ab9b.js"
+    "static/js/main.00c197eb.js"
   ]
 }
