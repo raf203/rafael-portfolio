@@ -5,6 +5,7 @@ import ContactForm from "./components/Contact";
 import Footer from "./components/Footer";
 import Portfolio from "./components/Portfolio";
 import Header from "./components/Header";
+import Resume from "./components/Resume";
 
 function App() {
   const [currentCategory, setCurrentCategory] = useState("about");
@@ -17,6 +18,8 @@ function App() {
         return <Portfolio />;
       case "contact":
         return <ContactForm />;
+        case "resume":
+        return <Resume />;
       default:
         return null;
     }

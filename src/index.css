@@ -313,7 +313,8 @@ a {
 }
 
 .bio {
-  padding: 30px;
+  padding: 130px 30px 30px 30px;
+  align-items: center;
 }
 
 .container-about {
@@ -321,11 +322,7 @@ a {
   padding: 100px;
 }
 
-.general {
-  min-height:100%;
-	position:relative;
-	width:100%;
-}
+
 
 .about,
 .contact {
@@ -363,3 +360,16 @@ a {
 .form-input{
   display: flex;
 } 
+.proficiences{
+  display: flex;
+  justify-content:center;
+}
+
+ol {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.profile-photo{
+  width: 25%;
+}
