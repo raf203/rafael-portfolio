@@ -3,6 +3,12 @@ import ProjectList from "../ProjectList";
 
 function Portfolio() {
     const projects = [
+      {
+        title: "Property Managers Help Desk",
+        image: "help-desk.jpg",
+        repo: "https://github.com/raf203/the-help-desk",
+        deployed: "https://rg-the-help-desk.herokuapp.com/",
+      },
     {
       title: "Project Blasé Blasé",
       image: "work5.jpg",
@@ -21,12 +27,7 @@ function Portfolio() {
       repo: "https://github.com/raf203/portfolio",
       deployed: "https://raf203.github.io/portfolio/",
     },
-    {
-      title: "Run Buddy",
-      image: "work1.jpg",
-      repo: "https://github.com/raf203/run-repo",
-      deployed: "https://github.com/raf203/run-repo",
-    },
+  
     {
         title: "Password Generator",
         image: "work6.jpg",
